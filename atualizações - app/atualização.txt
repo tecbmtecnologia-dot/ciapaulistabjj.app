@@ -1,0 +1,9 @@
+criar para deixar o pagamento automático, precisa criar o gateway de pagamento
+Assas, ou mercado pago
+
+==================================================================================
+ arrumar layout do app, deixar mais moderno, com interações 
+========================================================================
+
+
+
